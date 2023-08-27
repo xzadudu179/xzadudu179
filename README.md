@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@xzadudu179&bg_color=0D1117&border_color=77abea&text_color=dedede&title_color=dedede&layout=compact&hide_border=true&hide_title=true" />  
 </a>
   <p>
-    <h3>Find me at: <br></h3>
+    <h2>Find me at: <br></h2>
     <a href="https://space.bilibili.com/70738350?spm_id_from=333.788.0.0">&nbspBilibili&nbsp</a>
     <a href="https://twitter.com/xzadudu179">&nbsp&nbspTwitter/X&nbsp</a>
     <a href="https://music.163.com/#/user/home?id=318786091">&nbsp&nbspCloudMusic&nbsp</a>
@@ -25,9 +25,8 @@ You can click the Preview link to take a look at your changes.
   </p>
 </div>
 <div align="center">
-  <h2/>
   <br>
-  <h3>Contact me through:<br><br></h3>
+  <h2>Contact me through:<br><br></h2>
   <p>Email: Terra179@163.com<br></p>
   <p>QQ: 1795886524<br></p>
   <p>or at Github</p>
