@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <div align="center">
 
-[![xzadudu179's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=xzadudu179&bg_color=0D111700&show_icons=true&border_radius=5&border_color=77abea&text_color=ededed&rank_icon=github&title_color=5585fe&ring_color=5585fe&hide_border=true&)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![xzadudu179's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=xzadudu179&bg_color=0D111700&show_icons=true&border_radius=5&border_color=77abea&text_color=c9d1d9&rank_icon=github&title_color=5585fe&ring_color=5585fe&hide_border=true&)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![xzadudu179's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=xzadudu179&bg_color=0D111700&show_icons=true&border_radius=5&border_color=77abea&text_color=111111&rank_icon=github&title_color=1755de&ring_color=5585fe&hide_border=true&)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
