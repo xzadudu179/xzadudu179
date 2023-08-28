@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
-[![xzadudu179's Wakatime stats-Dark](https://github-readme-stats.vercel.app/api/wakatime?username=@xzadudu179&bg_color=0D111700&border_color=77abea&text_color=dedede&title_color=dedede&layout=compact&hide_border=true&hide_title=true&hide=Objective-C)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![xzadudu179's Wakatime stats-Dark](https://github-readme-stats.vercel.app/api/wakatime?username=@xzadudu179&bg_color=0D111700&border_color=77abea&text_color=dedede&title_color=dedede&layout=compact&hide_border=true&hide_title=true&hide=Objective-C,Other,ca65%20assembler)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![xzadudu179's Wakatime stats-Light](https://github-readme-stats.vercel.app/api/wakatime?username=@xzadudu179&bg_color=0D111700&border_color=77abea&text_color=111111&title_color=dedede&layout=compact&hide_border=true&hide_title=true&hide=Objective-C)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
   
   <!--- 
