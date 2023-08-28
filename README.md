@@ -17,11 +17,11 @@ You can click the Preview link to take a look at your changes.
 </a>
   <p>
     <h2>Find me at: <br></h2>
-    <a href="https://space.bilibili.com/70738350?spm_id_from=333.788.0.0">&nbspBilibili&nbsp</a>
-    <a href="https://twitter.com/xzadudu179">&nbsp&nbspTwitter/X&nbsp</a>
-    <a href="https://music.163.com/#/user/home?id=318786091">&nbsp&nbspCloudMusic&nbsp</a>
-    <a href="https://www.youtube.com/channel/UCQVFa42_lhkmYlfog1B2_Wg">&nbsp&nbspYoutube Channel&nbsp</a>
-    <a href="https://wakatime.com/@xzadudu179">&nbsp&nbspWakatime&nbsp</a>
+    &nbsp<a href="https://space.bilibili.com/70738350?spm_id_from=333.788.0.0">Bilibili</a>&nbsp
+    &nbsp&nbsp<a href="https://twitter.com/xzadudu179">Twitter/X</a>&nbsp
+    &nbsp&nbsp<a href="https://music.163.com/#/user/home?id=318786091">CloudMusic</a>&nbsp
+    &nbsp&nbsp<a href="https://www.youtube.com/channel/UCQVFa42_lhkmYlfog1B2_Wg">Youtube Channel</a>&nbsp
+    &nbsp&nbsp<a href="https://wakatime.com/@xzadudu179">Wakatime</a>&nbsp
   </p>
 </div>
 <div align="center">
