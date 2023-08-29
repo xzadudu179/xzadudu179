@@ -1,7 +1,3 @@
-<!---
-xzadudu179/xzadudu179 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <h2 align="center" class="info"> STATISTICS </h2>
 <br>
@@ -38,6 +34,7 @@ You can click the Preview link to take a look at your changes.
   </p>
 </div>
 <div align="center">
+  <img src = "Another xzadudu179.png" height="200" width="200"/>
   <br>
   <h2>Contact me through:<br><br></h2>
   <p>Email: Terra179@163.com<br></p>
