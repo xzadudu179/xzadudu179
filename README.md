@@ -26,11 +26,11 @@
   --->
   <p>
     <h2>Find me at: <br></h2>
-    &nbsp<a target="_blank" href="https://space.bilibili.com/70738350?spm_id_from=333.788.0.0">Bilibili</a>&nbsp
-    &nbsp&nbsp<a target="_blank" href="https://twitter.com/xzadudu179">Twitter/X</a>&nbsp
-    &nbsp&nbsp<a target="_blank" href="https://music.163.com/#/user/home?id=318786091">CloudMusic</a>&nbsp
-    &nbsp&nbsp<a target="_blank" href="https://www.youtube.com/channel/UCQVFa42_lhkmYlfog1B2_Wg">Youtube Channel</a>&nbsp
-    &nbsp&nbsp<a target="_blank" href="https://wakatime.com/@xzadudu179">Wakatime</a>&nbsp
+    &nbsp<a href="https://space.bilibili.com/70738350?spm_id_from=333.788.0.0" target="_blank" >Bilibili</a>&nbsp
+    &nbsp&nbsp<a href="https://twitter.com/xzadudu179" target="_blank">Twitter/X</a>&nbsp
+    &nbsp&nbsp<a href="https://music.163.com/#/user/home?id=318786091" target="_blank" >CloudMusic</a>&nbsp
+    &nbsp&nbsp<a href="https://www.youtube.com/channel/UCQVFa42_lhkmYlfog1B2_Wg" target="_blank" >Youtube Channel</a>&nbsp
+    &nbsp&nbsp<a href="https://wakatime.com/@xzadudu179" target="_blank" >Wakatime</a>&nbsp
   </p>
 </div>
 <div align="center">
