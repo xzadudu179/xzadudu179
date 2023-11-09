@@ -1,12 +1,12 @@
 
 <h2 align="center" class="info"> STATISTICS </h2>
 <div align="center">
-  <img alt="Static Badge" height="25em"  src="https://img.shields.io/badge/HTML-19D3B6?style=for-the-badge&logo=html5&logoColor=fff">
-  <img alt="Static Badge" height="25em"  src="https://img.shields.io/badge/C%2B%2B-19BBD3?style=for-the-badge&logo=c%2B%2B&logoColor=fff">
-  <img alt="Static Badge" height="25em" src="https://img.shields.io/badge/C--sharp-%234088FB?style=for-the-badge&logo=csharp&logoColor=fff"">
-  <img alt="Static Badge" height="25em"  src="https://img.shields.io/badge/Python-%23484fc9?style=for-the-badge&logo=python&logoColor=fff">
-  <img alt="Static Badge" height="25em"  src="https://img.shields.io/badge/JavaScript-5A3AFA?style=for-the-badge&logo=javascript&logoColor=fff">
-  <img alt="Static Badge" height="25em"  src="https://img.shields.io/badge/CSS-744BE1?style=for-the-badge&logo=css3&logoColor=fff">
+  <img alt="HTML" height="25em"  src="https://img.shields.io/badge/HTML-19D3B6?style=for-the-badge&logo=html5&logoColor=fff">
+  <img alt="C++" height="25em"  src="https://img.shields.io/badge/C%2B%2B-19BBD3?style=for-the-badge&logo=c%2B%2B&logoColor=fff">
+  <img alt="C-Sharp" height="25em" src="https://img.shields.io/badge/C--sharp-%234088FB?style=for-the-badge&logo=csharp&logoColor=fff"">
+  <img alt="Python" height="25em"  src="https://img.shields.io/badge/Python-%23484fc9?style=for-the-badge&logo=python&logoColor=fff">
+  <img alt="Javascript" height="25em"  src="https://img.shields.io/badge/JavaScript-5A3AFA?style=for-the-badge&logo=javascript&logoColor=fff">
+  <img alt="CSS" height="25em"  src="https://img.shields.io/badge/CSS-744BE1?style=for-the-badge&logo=css3&logoColor=fff">
 </div>
 <div align="center">
 <br/>
@@ -15,7 +15,7 @@
   <img width="450em" src="https://github-readme-stats.vercel.app/api?username=xzadudu179&bg_color=0D111700&show_icons=true&icon_color=3BFFDC&border_radius=0&border_color=A9E7FF&text_color=E6EDF3&rank_icon=github&title_color=4CB7FE&ring_color=3BFFDC&hide_border=true&theme=github-dark">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=xzadudu179&bg_color=0D111700&show_icons=true&border_radius=0&border_color=77abea&text_color=111111&rank_icon=github&title_color=484fc9&ring_color=5585fe&hide_border=true&theme=github-light">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=xzadudu179&bg_color=0D111700&show_icons=true&icon_color=3BFFDC&border_radius=0&border_color=77abea&text_color=111111&rank_icon=github&title_color=484fc9&ring_color=5585fe&hide_border=true&theme=github-light">
 </a>
 
 <!--
@@ -49,14 +49,25 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@xzadudu179&bg_color=0D111700&border_color=77abea&text_color=dedede&title_color=dedede&layout=compact&hide_border=true&hide_title=true" />  
 </a>
   --->
-  <p>
+
+  <div>
     <h2>Find me at: <br></h2>
-    &nbsp<a href="https://space.bilibili.com/70738350?spm_id_from=333.788.0.0" target="_blank" >Bilibili</a>&nbsp
-    &nbsp&nbsp<a href="https://twitter.com/xzadudu179" target="_blank">Twitter/X</a>&nbsp
-    &nbsp&nbsp<a href="https://music.163.com/#/user/home?id=318786091" target="_blank" >CloudMusic</a>&nbsp
-    &nbsp&nbsp<a href="https://www.youtube.com/channel/UCQVFa42_lhkmYlfog1B2_Wg" target="_blank" >Youtube Channel</a>&nbsp
-    &nbsp&nbsp<a href="https://wakatime.com/@xzadudu179" target="_blank" >Wakatime</a>&nbsp
-  </p>
+    <a href="https://wakatime.com/@xzadudu179" target="_blank" >
+      <img alt="Static Badge" height="20em" src="https://img.shields.io/badge/wakatime-6C41D4?style=flat-square&logo=wakatime&logoColor=fff">
+    </a>
+    <a href="https://www.youtube.com/channel/UCQVFa42_lhkmYlfog1B2_Wg" target="_blank" >
+      <img alt="Static Badge" height="20em" src="https://img.shields.io/badge/YouTube-5041D4?style=flat-square&logo=youtube%20channel&logoColor=fff">
+    </a>  
+    <a href="https://twitter.com/xzadudu179" target="_blank">
+      <img alt="Static Badge" height="20em" src="https://img.shields.io/badge/Twitter%2FX-3E4BD2?style=flat-square&logo=X&logoColor=fff">
+    </a>
+    <a href="https://music.163.com/#/user/home?id=318786091" target="_blank" >
+      <img alt="Static Badge" height="20em" src="https://img.shields.io/badge/CloudMusic-1E5EDB?style=flat-square&logoColor=fff">
+    </a>
+    <a href="https://space.bilibili.com/70738350?spm_id_from=333.788.0.0" target="_blank" >
+      <img alt="Static Badge" height="20em" src="https://img.shields.io/badge/Bilibili-1899D7?style=flat-square&logo=bilibili&logoColor=fff">
+    </a>
+  </div>  
 </div>
 <div align="center">
   <img src = "Another xzadudu179.png" height="200" width="200"/>
