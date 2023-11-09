@@ -57,13 +57,13 @@
       <img alt="Static Badge" height="20em" src="https://img.shields.io/badge/wakatime-6C41D4?style=flat-square&logo=wakatime&logoColor=fff">
     </a>
     <a href="https://www.youtube.com/channel/UCQVFa42_lhkmYlfog1B2_Wg" target="_blank" >
-      <img alt="Static Badge" height="20em" src="https://img.shields.io/badge/YouTube-5041D4?style=flat-square&logo=youtube%20channel&logoColor=fff">
+      <img alt="Static Badge" height="20em" src="https://img.shields.io/badge/YouTube-5041D4?style=flat-square&logo=youtube&logoColor=fff">
     </a>  
     <a href="https://twitter.com/xzadudu179" target="_blank">
       <img alt="Static Badge" height="20em" src="https://img.shields.io/badge/Twitter%2FX-3E4BD2?style=flat-square&logo=X&logoColor=fff">
     </a>
-    <a href="https://music.163.com/#/user/home?id=318786091" target="_blank" >
-      <img alt="Static Badge" height="20em" src="https://img.shields.io/badge/CloudMusic-1E5EDB?style=flat-square&logoColor=fff">
+    <a href="https://github.com/xzadudu179" target="_blank" >
+      <img alt="Static Badge" height="20em" src="https://img.shields.io/badge/Github-1E5EDB?style=flat-square&logo=Github&logoColor=fff">
     </a>
     <a href="https://space.bilibili.com/70738350?spm_id_from=333.788.0.0" target="_blank" >
       <img alt="Static Badge" height="20em" src="https://img.shields.io/badge/Bilibili-1899D7?style=flat-square&logo=bilibili&logoColor=fff">
