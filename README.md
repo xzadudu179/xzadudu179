@@ -51,6 +51,7 @@
   --->
 
   <div>
+    <hr>
     <h2>Find me at: <br></h2>
     <a href="https://wakatime.com/@xzadudu179" target="_blank" >
       <img alt="Static Badge" height="20em" src="https://img.shields.io/badge/wakatime-6C41D4?style=flat-square&logo=wakatime&logoColor=fff">
