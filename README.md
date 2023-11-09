@@ -12,7 +12,7 @@
 <br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=xzadudu179&bg_color=0D111700&show_icons=true&icon_color=3BFFDC&border_radius=0&border_color=A9E7FF&text_color=E6EDF3&rank_icon=github&title_color=18D8FF&ring_color=3BFFDC&hide_border=true&theme=github-dark">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=xzadudu179&bg_color=0D111700&show_icons=true&icon_color=3BFFDC&border_radius=0&border_color=A9E7FF&text_color=E6EDF3&rank_icon=github&title_color=0BBBF3&ring_color=3BFFDC&hide_border=true&theme=github-dark">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img width="450em" src="https://github-readme-stats.vercel.app/api?username=xzadudu179&bg_color=0D111700&show_icons=true&icon_color=2AB5C2&border_radius=0&border_color=77abea&text_color=0D1016&rank_icon=github&title_color=375DDA&ring_color=5585fe&hide_border=true&theme=github-light">
@@ -33,7 +33,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@xzadudu179&bg_color=0D111700&border_color=A9E7FF&text_color=E6EDF3&title_color=18D8FF&layout=default&hide_border=true&langs_count=5&line_height=35&border_radius=0&custom_title=Top%205%20Languages%20(Wakatime)&hide=Objective-C,Other,ca65%20assembler,Ezhil,SWIG,Assembly,GDScript3,Bash,CSS,SSH%20Key,Image%20(png)&theme=github-dark">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@xzadudu179&bg_color=0D111700&border_color=A9E7FF&text_color=E6EDF3&title_color=0BBBF3&layout=default&hide_border=true&langs_count=5&line_height=35&border_radius=0&custom_title=Top%205%20Languages%20(Wakatime)&hide=Objective-C,Other,ca65%20assembler,Ezhil,SWIG,Assembly,GDScript3,Bash,CSS,SSH%20Key,Image%20(png)&theme=github-dark">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img width="450em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@xzadudu179&bg_color=0D111700&border_color=77abea&text_color=0D1016&title_color=375DDA&layout=default&hide_border=true&langs_count=5&line_height=35&border_radius=0&custom_title=Top%205%20Languages%20(Wakatime)&hide=Objective-C,Other,ca65%20assembler,Ezhil,SWIG,Assembly,GDScript3,Bash,CSS,SSH%20Key,Image%20(png)&theme=github-light">
