@@ -17,19 +17,24 @@
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img width="450em" src="https://github-readme-stats.vercel.app/api?username=xzadudu179&bg_color=0D111700&show_icons=true&icon_color=2AB5C2&border_radius=0&border_color=77abea&text_color=0D1016&rank_icon=github&title_color=375DDA&include_all_commits=true&count_private=true&ring_color=5585fe&hide_border=true&theme=github-light">
 </a>
-
 <!--
 [![xzadudu179's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=xzadudu179&bg_color=0D111700&show_icons=true&border_radius=0&border_color=5D51FB&text_color=E6EDF3&rank_icon=github&title_color=7581FF&ring_color=5D51FB&hide_border=false&)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![xzadudu179's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=xzadudu179&bg_color=0D111700&show_icons=true&border_radius=5&border_color=77abea&text_color=0D1019&rank_icon=github&title_color=484fc9&ring_color=5585fe&hide_border=true&)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 -->
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzadudu179&layout=donut-vertical&bg_color=0D111700&border_color=77abea&text_color=dedede&title_color=dedede&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)--->
+<!--
+</div>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Top Langs" width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzadudu179&layout=donut-vertical&count_private=true&bg_color=0D111700&border_color=77abea&text_color=dedede&title_color=dedede&hide_border=true">
+  </a>
+</div>
+-->
 <!--- 
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=xzadudu179&bg_color=0D111700&show_icons=true&border_radius=5&border_color=77abea&text_color=ededed&rank_icon=github&title_color=5585fe&ring_color=5585fe&hide_border=true" />
 </a>
 --->
-</div>
+
 <br/>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
