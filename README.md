@@ -78,7 +78,7 @@
 <div align="center">
   <img src = "Another xzadudu179.png" height="200" width="200"/>
   <br>
-  <h2>Contact me through:<br><br></h2>
+  <h2>Contact me through:<br></h2>
   <p>Email: Terra179@163.com<br></p>
   <p>QQ: 1795886524<br></p>
   <p>or at Github</p>
