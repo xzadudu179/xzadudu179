@@ -6,7 +6,7 @@
   <img alt="C-Sharp" height="25em" src="https://img.shields.io/badge/C--sharp-%234088FB?style=for-the-badge&logo=csharp&logoColor=fff"">
   <img alt="Python" height="25em"  src="https://img.shields.io/badge/Python-%23484fc9?style=for-the-badge&logo=python&logoColor=fff">
   <img alt="Javascript" height="25em"  src="https://img.shields.io/badge/JavaScript-5A3AFA?style=for-the-badge&logo=javascript&logoColor=fff">
-  <img alt="CSS" height="25em"  src="https://img.shields.io/badge/CSS-744BE1?style=for-the-badge&logo=css3&logoColor=fff">
+  <img alt="WPF" height="25em" src="https://img.shields.io/badge/WPF-744BE1?style=for-the-badge&logo=.NET&logoColor=%23FFF">
 </div>
 <div align="center">
 <br/>
