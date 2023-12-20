@@ -2,9 +2,9 @@
 <h2 align="center" class="info"> STATISTICS </h2>
 <div align="center">
   <img alt="HTML" height="25em"  src="https://img.shields.io/badge/HTML-19D3B6?style=for-the-badge&logo=html5&logoColor=fff">
-  <img alt="Java" height="25em"  src="https://img.shields.io/badge/C%2B%2B-19BBD3?style=for-the-badge&logo=c%2B%2B&logoColor=fff">
+  <img alt="C++" height="25em"  src="https://img.shields.io/badge/C%2B%2B-19BBD3?style=for-the-badge&logo=c%2B%2B&logoColor=fff">
   <img alt="C-Sharp" height="25em" src="https://img.shields.io/badge/C--sharp-%234088FB?style=for-the-badge&logo=csharp&logoColor=fff"">
-  <img alt="Python" height="25em"  src="https://img.shields.io/badge/Python-%23484fc9?style=for-the-badge&logo=python&logoColor=fff">
+  <img alt="Python" height="25em"  src="https://img.shields.io/badge/Python-%233E4BD2?style=for-the-badge&logo=python&logoColor=fff">
   <img alt="Javascript" height="25em"  src="https://img.shields.io/badge/JavaScript-5A3AFA?style=for-the-badge&logo=javascript&logoColor=fff">
   <img alt="WPF" height="25em" src="https://img.shields.io/badge/WPF-744BE1?style=for-the-badge&logo=.NET&logoColor=%23FFF">
 </div>
@@ -68,10 +68,10 @@
       <img alt="Static Badge" height="20em" src="https://img.shields.io/badge/Twitter%2FX-3E4BD2?style=flat-square&logo=X&logoColor=fff">
     </a>
     <a href="https://github.com/xzadudu179" target="_blank" >
-      <img alt="Static Badge" height="20em" src="https://img.shields.io/badge/Github-1E5EDB?style=flat-square&logo=Github&logoColor=fff">
+      <img alt="Static Badge" height="20em" src="https://img.shields.io/badge/Github-4088FB?style=flat-square&logo=Github&logoColor=fff">
     </a>
     <a href="https://space.bilibili.com/70738350?spm_id_from=333.788.0.0" target="_blank" >
-      <img alt="Static Badge" height="20em" src="https://img.shields.io/badge/Bilibili-1899D7?style=flat-square&logo=bilibili&logoColor=fff">
+      <img alt="Static Badge" height="20em" src="https://img.shields.io/badge/Bilibili-19BBD3?style=flat-square&logo=bilibili&logoColor=fff">
     </a>
   </div>  
 </div>
