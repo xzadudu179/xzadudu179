@@ -92,7 +92,7 @@
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height=180em src="https://wakatime.com/share/@xzadudu179/0dc23568-e476-44a1-818d-1a53bf42a9a4.svg"/>
+    <img height=150em src="https://wakatime.com/share/@xzadudu179/0dc23568-e476-44a1-818d-1a53bf42a9a4.svg"/>
   </a>
 </div>
 
