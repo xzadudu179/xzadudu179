@@ -13,10 +13,10 @@
 
 <!-- 文字 -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5be6ff&center=true&vCenter=true&random=true&width=435&separator=%3C&lines=Console.WriteLine(%22Hello%2C+World%22);%3Cprintln(%22Hello%2C+World%22)%3Cprint('Hello%2C+World')" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5be6ff&center=true&vCenter=true&random=true&width=435&separator=%3C&lines=Console.WriteLine(%22Hello%2C+World%22);%3Cprintln(%22Hello%2C+World%22)%3Cprint('Hello%2C+World')" alt="Typing SVG" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5be6ff&center=true&vCenter=true&random=true&width=435&separator=%3C&lines=Console.WriteLine(%22Hello%2C+World%22);%3Cprintln(%22Hello%2C+World%22)%3Cprint('Hello%2C+World')" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5be6ff&center=true&vCenter=true&random=true&width=435&separator=%3C&lines=Console.WriteLine(%22Hello%2C+World%22);%3Cprintln(%22Hello%2C+World%22)%3Cprint('Hello%2C+World')" alt="Typing SVG" />
 </a>
 <br>
 
