@@ -16,7 +16,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5be6ff&center=true&vCenter=true&random=true&width=435&separator=%3C&lines=Console.WriteLine(%22Hello%2C+World%22);%3Cprintln(%22Hello%2C+World%22)%3Cprint('Hello%2C+World')" alt="Typing SVG" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5be6ff&center=true&vCenter=true&random=true&width=435&separator=%3C&lines=Console.WriteLine(%22Hello%2C+World%22);%3Cprintln(%22Hello%2C+World%22)%3Cprint('Hello%2C+World')" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=375DDA&center=true&vCenter=true&random=true&width=435&separator=%3C&lines=Console.WriteLine(%22Hello%2C+World%22);%3Cprintln(%22Hello%2C+World%22)%3Cprint('Hello%2C+World')" alt="Typing SVG" />
 </a>
 <br>
 
@@ -103,7 +103,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=xzadudu179&hide_border=true&bg_color=00000000&area=true&point=6effe4&line=19bbd3&color=24ccff&area_color=4088fb&height=300"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=xzadudu179&hide_border=true&bg_color=00000000&area=true&point=6effe4&line=19bbd3&color=24ccff&area_color=4088fb&height=300"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=xzadudu179&hide_border=true&bg_color=00000000&area=true&point=375dda&line=4088fb&color=375DDA&area_color=4088fb&height=300"/>
   </a>
 
   <!-- Waktime 热力图 -->
