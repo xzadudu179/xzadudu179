@@ -11,8 +11,18 @@
 <div align="center">
 <br/>
 
+<!-- 文字 -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=xzadudu179&bg_color=0D111700&show_icons=true&icon_color=3BFFDC&border_radius=0&border_color=A9E7FF&text_color=E6EDF3&rank_icon=github&title_color=0BBBF3&include_all_commits=true&count_private=true&ring_color=3BFFDC&hide_border=true&theme=github-dark">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5be6ff&center=true&vCenter=true&random=true&width=435&separator=%3C&lines=Console.WriteLine(%22Hello%2C+World%22);%3Cprintln(%22Hello%2C+World%22)%3Cprint('Hello%2C+World')" alt="Typing SVG" /></a>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5be6ff&center=true&vCenter=true&random=true&width=435&separator=%3C&lines=Console.WriteLine(%22Hello%2C+World%22);%3Cprintln(%22Hello%2C+World%22)%3Cprint('Hello%2C+World')" alt="Typing SVG" /></a>
+</a>
+<br>
+
+<!-- GitHub 状态 -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=xzadudu179&bg_color=0D111700&show_icons=true&icon_color=3BFFDC&border_radius=0&border_color=A9E7FF&text_color=E6EDF3&rank_icon=github&title_color=24ccff&include_all_commits=true&count_private=true&ring_color=3BFFDC&hide_border=true&theme=github-dark">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img width="450em" src="https://github-readme-stats.vercel.app/api?username=xzadudu179&bg_color=0D111700&show_icons=true&icon_color=2AB5C2&border_radius=0&border_color=77abea&text_color=0D1016&rank_icon=github&title_color=375DDA&include_all_commits=true&count_private=true&ring_color=5585fe&hide_border=true&theme=github-light">
@@ -35,10 +45,11 @@
 </a>
 --->
 
+<!-- Wakatime 状态 -->
 <br/>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@xzadudu179&bg_color=0D111700&border_color=A9E7FF&text_color=E6EDF3&title_color=0BBBF3&layout=default&hide_border=true&langs_count=5&custom_title=Top%205%20Languages%20(Wakatime%20Last%207%20days)&line_height=35&border_radius=0&hide=Objective-C,Other,ca65%20assembler,Ezhil,SWIG,Assembly,GDScript3,Bash,CSS,SSH%20Key,Image%20(png)&theme=github-dark">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@xzadudu179&bg_color=0D111700&border_color=A9E7FF&text_color=E6EDF3&title_color=24ccff&layout=default&hide_border=true&langs_count=5&custom_title=Top%205%20Languages%20(Wakatime%20Last%207%20days)&line_height=35&border_radius=0&hide=Objective-C,Other,ca65%20assembler,Ezhil,SWIG,Assembly,GDScript3,Bash,CSS,SSH%20Key,Image%20(png)&theme=github-dark">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img width="450em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@xzadudu179&bg_color=0D111700&border_color=77abea&text_color=0D1016&title_color=375DDA&layout=default&hide_border=true&custom_title=Top%205%20Languages%20(Wakatime%20Last%207%20days)&langs_count=5&line_height=35&border_radius=0&hide=Objective-C,Other,ca65%20assembler,Ezhil,SWIG,Assembly,GDScript3,Bash,CSS,SSH%20Key,Image%20(png)&theme=github-light">
@@ -87,12 +98,20 @@
   <p>or at Github</p>
   <hr>
   <h2>OTHER STATS</h2>
+  <!-- 代码活动图 -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=xzadudu179&hide_border=true&bg_color=00000000&area=true&point=6effe4&line=19bbd3&color=0bbbf3&area_color=4088fb&height=300"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=xzadudu179&hide_border=true&bg_color=00000000&area=true&point=6effe4&line=19bbd3&color=24ccff&area_color=4088fb&height=300"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=xzadudu179&hide_border=true&bg_color=00000000&area=true&point=6effe4&line=19bbd3&color=24ccff&area_color=4088fb&height=300"/>
   </a>
 
+  <!-- Waktime 热力图 -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img src="https://wakatime.com/share/@xzadudu179/0dc23568-e476-44a1-818d-1a53bf42a9a4.svg"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img src="https://wakatime.com/share/@xzadudu179/61e3d3bd-3b45-4f87-97aa-228869e1a125.svg"/>
   </a>
 </div>
 
