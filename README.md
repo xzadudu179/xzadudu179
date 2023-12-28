@@ -43,6 +43,9 @@
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img width="450em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@xzadudu179&bg_color=0D111700&border_color=77abea&text_color=0D1016&title_color=375DDA&layout=default&hide_border=true&custom_title=Top%205%20Languages%20(Wakatime%20Last%207%20days)&langs_count=5&line_height=35&border_radius=0&hide=Objective-C,Other,ca65%20assembler,Ezhil,SWIG,Assembly,GDScript3,Bash,CSS,SSH%20Key,Image%20(png)&theme=github-light">
   </a>
+  <br>
+
+  
   <!--
   [![xzadudu179's Wakatime stats-Dark](https://github-readme-stats.vercel.app/api/wakatime?username=@xzadudu179&bg_color=0D111700&border_color=77abea&text_color=E6EDF3&title_color=7581FF&layout=default&hide_border=false&langs_count=5&line_height=26&custom_title=Top%207%20Languages%20(Wakatime)&hide=Objective-C,Other,ca65%20assembler,Ezhil,SWIG,Assembly,GDScript3,Bash,CSS,SSH%20Key,Image%20(png))](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
   [![xzadudu179's Wakatime stats-Light](https://github-readme-stats.vercel.app/api/wakatime?username=@xzadudu179&bg_color=0D111700&border_color=77abea&text_color=0D1019&title_color=484fc9&layout=default&hide_border=true&langs_count=7&custom_title=Top%207%20Languages%20(Wakatime)&hide=Objective-C,Other,ca65%20assembler,Ezhil,SWIG,Assembly,GDScript3,Bash,CSS,SSH%20Key,Image%20(png))](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
@@ -82,5 +85,14 @@
   <p>Email: Terra179@163.com<br></p>
   <p>QQ: 1795886524<br></p>
   <p>or at Github</p>
+  <hr>
+  <h2>OTHER STATS</h2>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=xzadudu179&hide_border=true&bg_color=00000000&area=true&point=6effe4&line=19bbd3&color=0bbbf3&area_color=4088fb&height=300"/>
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img height=180em src="https://wakatime.com/share/@xzadudu179/0dc23568-e476-44a1-818d-1a53bf42a9a4.svg"/>
+  </a>
 </div>
 
