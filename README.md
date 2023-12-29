@@ -5,18 +5,18 @@
   <img alt="C++" height="25em"  src="https://img.shields.io/badge/C%2B%2B-19BBD3?style=for-the-badge&logo=c%2B%2B&logoColor=fff">
   <img alt="C-Sharp" height="25em" src="https://img.shields.io/badge/C--sharp-%234088FB?style=for-the-badge&logo=csharp&logoColor=fff"">
   <img alt="Python" height="25em"  src="https://img.shields.io/badge/Python-%233E4BD2?style=for-the-badge&logo=python&logoColor=fff">
-  <img alt="Javascript" height="25em"  src="https://img.shields.io/badge/JavaScript-5A3AFA?style=for-the-badge&logo=javascript&logoColor=fff">
-  <img alt="WPF" height="25em" src="https://img.shields.io/badge/WPF-744BE1?style=for-the-badge&logo=.NET&logoColor=%23FFF">
+  <img alt="Kotlin" height="25em"  src="https://img.shields.io/badge/Kotlin-5A3AFA?style=for-the-badge&logo=kotlin&logoColor=fff">
+  <img alt="Rust" height="25em" src="https://img.shields.io/badge/Rust-744BE1?style=for-the-badge&logo=rust&logoColor=%23FFF">
 </div>
 <div align="center">
 <br/>
 
 <!-- 文字 -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5be6ff&center=true&vCenter=true&random=true&width=435&separator=%3C&lines=Console.WriteLine(%22Hello%2C+World%22);%3Cprintln(%22Hello%2C+World%22)%3Cprint('Hello%2C+World')" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5be6ff&center=true&vCenter=true&random=true&width=600&separator=%3D&lines=fmt.Println(%22Hello%2C+World!%22)%3Dstd%3A%3Acout+%3C%3C+%22Hello%2C+World%22+%3C%3C+std%3A%3Aendl;%3Dprintf(%22Hello%2C+World%22);%3Dconsole.log(%22Hello%2C+World%22)%3Dprintln!(%22Hello%2C+World!%22);%3DConsole.WriteLine(%22Hello%2C+World%22);%3DSystem.out.println(%22Hello+World%22);%3Dprint('Hello%2C+World')%3Dprintln(%22Hello%2C+World!%22);" alt="Typing SVG" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=375DDA&center=true&vCenter=true&random=true&width=435&separator=%3C&lines=Console.WriteLine(%22Hello%2C+World%22);%3Cprintln(%22Hello%2C+World%22)%3Cprint('Hello%2C+World')" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=375DDA&center=true&vCenter=true&random=true&width=600&separator=%3D&lines=fmt.Println(%22Hello%2C+World!%22)%3Dstd%3A%3Acout+%3C%3C+%22Hello%2C+World%22+%3C%3C+std%3A%3Aendl;%3Dprintf(%22Hello%2C+World%22);%3Dconsole.log(%22Hello%2C+World%22)%3Dprintln!(%22Hello%2C+World!%22);%3DConsole.WriteLine(%22Hello%2C+World%22);%3DSystem.out.println(%22Hello+World%22);%3Dprint('Hello%2C+World')%3Dprintln(%22Hello%2C+World!%22);" alt="Typing SVG" />
 </a>
 <br>
 
