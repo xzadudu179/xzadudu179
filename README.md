@@ -1,5 +1,15 @@
-
-<h2 align="center" class="info"> STATISTICS </h2>
+<div align="center">
+  <h2>Hello, World</h2>
+  <!-- 文字 -->
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5be6ff&center=true&vCenter=true&random=true&width=600&separator=%3D&lines=fmt.Println(%22Hello%2C+World!%22)%3Dstd%3A%3Acout+%3C%3C+%22Hello%2C+World%22+%3C%3C+std%3A%3Aendl;%3Dprintf(%22Hello%2C+World%22);%3Dconsole.log(%22Hello%2C+World%22)%3Dprintln!(%22Hello%2C+World!%22);%3DConsole.WriteLine(%22Hello%2C+World%22);%3DSystem.out.println(%22Hello+World%22);%3Dprint('Hello%2C+World')%3Dprintln(%22Hello%2C+World!%22);" alt="Typing SVG" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=375DDA&center=true&vCenter=true&random=true&width=600&separator=%3D&lines=fmt.Println(%22Hello%2C+World!%22)%3Dstd%3A%3Acout+%3C%3C+%22Hello%2C+World%22+%3C%3C+std%3A%3Aendl;%3Dprintf(%22Hello%2C+World%22);%3Dconsole.log(%22Hello%2C+World%22)%3Dprintln!(%22Hello%2C+World!%22);%3DConsole.WriteLine(%22Hello%2C+World%22);%3DSystem.out.println(%22Hello+World%22);%3Dprint('Hello%2C+World')%3Dprintln(%22Hello%2C+World!%22);" alt="Typing SVG" />
+  </a>
+  <br>
+</div>
+<h2 align="center" class="info"> xzadudu179's stats </h2>
 <div align="center">
   <img alt="HTML" height="25em"  src="https://img.shields.io/badge/HTML-19D3B6?style=for-the-badge&logo=html5&logoColor=fff">
   <img alt="C++" height="25em"  src="https://img.shields.io/badge/C%2B%2B-19BBD3?style=for-the-badge&logo=c%2B%2B&logoColor=fff">
@@ -11,14 +21,7 @@
 <div align="center">
 <br/>
 
-<!-- 文字 -->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5be6ff&center=true&vCenter=true&random=true&width=600&separator=%3D&lines=fmt.Println(%22Hello%2C+World!%22)%3Dstd%3A%3Acout+%3C%3C+%22Hello%2C+World%22+%3C%3C+std%3A%3Aendl;%3Dprintf(%22Hello%2C+World%22);%3Dconsole.log(%22Hello%2C+World%22)%3Dprintln!(%22Hello%2C+World!%22);%3DConsole.WriteLine(%22Hello%2C+World%22);%3DSystem.out.println(%22Hello+World%22);%3Dprint('Hello%2C+World')%3Dprintln(%22Hello%2C+World!%22);" alt="Typing SVG" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=375DDA&center=true&vCenter=true&random=true&width=600&separator=%3D&lines=fmt.Println(%22Hello%2C+World!%22)%3Dstd%3A%3Acout+%3C%3C+%22Hello%2C+World%22+%3C%3C+std%3A%3Aendl;%3Dprintf(%22Hello%2C+World%22);%3Dconsole.log(%22Hello%2C+World%22)%3Dprintln!(%22Hello%2C+World!%22);%3DConsole.WriteLine(%22Hello%2C+World%22);%3DSystem.out.println(%22Hello+World%22);%3Dprint('Hello%2C+World')%3Dprintln(%22Hello%2C+World!%22);" alt="Typing SVG" />
-</a>
-<br>
+
 
 <!-- GitHub 状态 -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
@@ -97,7 +100,7 @@
   <p>QQ: 1795886524<br></p>
   <p>or at Github</p>
   <hr>
-  <h2>OTHER STATS</h2>
+  <h2>other xzadudu179's stats</h2>
   <!-- 代码活动图 -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=xzadudu179&hide_border=true&bg_color=00000000&area=true&point=6effe4&line=19bbd3&color=24ccff&area_color=4088fb&height=300"/>
