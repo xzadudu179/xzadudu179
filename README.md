@@ -111,10 +111,10 @@
 
   <!-- Waktime 热力图 -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://wakatime.com/share/@xzadudu179/0dc23568-e476-44a1-818d-1a53bf42a9a4.svg"/>
+    <img src="https://wakatime.com/share/@xzadudu179/61e3d3bd-3b45-4f87-97aa-228869e1a125.svg"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://wakatime.com/share/@xzadudu179/61e3d3bd-3b45-4f87-97aa-228869e1a125.svg"/>
+    <img src="https://wakatime.com/share/@xzadudu179/0dc23568-e476-44a1-818d-1a53bf42a9a4.svg"/>
   </a>
 </div>
 
