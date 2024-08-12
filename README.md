@@ -18,6 +18,10 @@
   <img alt="Kotlin" height="25em"  src="https://img.shields.io/badge/Kotlin-5A3AFA?style=for-the-badge&logo=kotlin&logoColor=fff">
   <img alt="Rust" height="25em" src="https://img.shields.io/badge/Rust-744BE1?style=for-the-badge&logo=rust&logoColor=%23FFF">
 </div>
+<p>TODO list...</p>
+
+- qq 机器人 xme
+
 <div align="center">
 <br/>
 
