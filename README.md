@@ -18,10 +18,6 @@
   <img alt="Kotlin" height="25em"  src="https://img.shields.io/badge/Kotlin-5A3AFA?style=for-the-badge&logo=kotlin&logoColor=fff">
   <img alt="Rust" height="25em" src="https://img.shields.io/badge/Rust-744BE1?style=for-the-badge&logo=rust&logoColor=%23FFF">
 </div>
-<p>TODO list...</p>
-
-- qq 机器人 xme
-
 <div align="center">
 <br/>
 
@@ -76,7 +72,10 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@xzadudu179&bg_color=0D111700&border_color=77abea&text_color=dedede&title_color=dedede&layout=compact&hide_border=true&hide_title=true" />  
 </a>
   --->
-
+  
+  <h2>TODO...</h2>
+    <p>- qq 机器人 xme</p>
+  
   <div>
     <hr>
     <h2>Find me at: <br></h2>
