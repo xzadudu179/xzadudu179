@@ -75,7 +75,8 @@
   
   <h2>TODO...</h2>
     <p>- qq 机器人 xme</p>
-  
+    <p>- 个人博客页面</p>
+    <p>- 一些其他的学习</p>
   <div>
     <hr>
     <h2>Find me at: <br></h2>
