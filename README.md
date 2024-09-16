@@ -43,11 +43,7 @@
   </a>
 </div>
 -->
-<!--- 
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=xzadudu179&bg_color=0D111700&show_icons=true&border_radius=5&border_color=77abea&text_color=ededed&rank_icon=github&title_color=5585fe&ring_color=5585fe&hide_border=true" />
-</a>
---->
+
 
 <!-- Wakatime 状态 -->
 <br/>
