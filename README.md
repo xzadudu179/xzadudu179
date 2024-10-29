@@ -11,12 +11,12 @@
 </div>
 <h2 align="center" class="info"> xzadudu179's stats </h2>
 <div align="center">
-  <img alt="HTML" height="25em"  src="https://img.shields.io/badge/HTML-19D3B6?style=for-the-badge&logo=html5&logoColor=fff">
+  <img alt="VUE.JS" height="25em"  src="https://img.shields.io/badge/VUE.JS-19D3B6?style=for-the-badge&logo=vue.js&logoColor=fff">
   <img alt="C++" height="25em"  src="https://img.shields.io/badge/C%2B%2B-19BBD3?style=for-the-badge&logo=c%2B%2B&logoColor=fff">
-  <img alt="C-Sharp" height="25em" src="https://img.shields.io/badge/C--sharp-%234088FB?style=for-the-badge&logo=.net&logoColor=fff"">
+  <img alt="C-Sharp" height="25em" src="https://img.shields.io/badge/C--sharp-%234088FB?style=for-the-badge&logo=.NET&logoColor=fff"">
   <img alt="Python" height="25em"  src="https://img.shields.io/badge/Python-%233E4BD2?style=for-the-badge&logo=python&logoColor=fff">
   <img alt="Kotlin" height="25em"  src="https://img.shields.io/badge/Kotlin-5A3AFA?style=for-the-badge&logo=kotlin&logoColor=fff">
-  <img alt="Java" height="25em" src="https://img.shields.io/badge/Java-744BE1?style=for-the-badge&logo=oracle&logoColor=%23FFF">
+  <img alt="Dart" height="25em" src="https://img.shields.io/badge/Dart-744BE1?style=for-the-badge&logo=dart&logoColor=%23FFF">
 </div>
 <div align="center">
 <br/>
