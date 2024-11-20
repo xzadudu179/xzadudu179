@@ -101,7 +101,7 @@
   <p>QQ: 1795886524<br></p>
   <p>or at Github</p>
   <hr>
-  <h2>OTHER STATS</h2>
+  <h2>Other Stats</h2>
   
   <!-- 代码活动图 -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
