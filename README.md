@@ -99,7 +99,7 @@
   <h2>Contact me through:<br></h2>
   <p>Email: Terra179@163.com<br></p>
   <p>QQ: 1795886524<br></p>
-  <p>or at Github</p>
+  <p>Twitter: @xzadudu179</p>
   <hr>
   <h2>Other Stats</h2>
   
