@@ -98,9 +98,7 @@
   <br>
   <h2>Contact me through:<br></h2>
   <p>Email: <a href="mailto:terra179@163.com">Terra179@163.com</a><br></p>
-<!--   <p>QQ: <a href="tencent://snsapp/?cmd=2&ver=1&uin=1795886524">1795886524</a><br></p> -->
-  <p>Twitter / X: <a href="https://x.com/xzadudu179">@xzadudu179</a></p>
-  <p>Bilibili: <a href="https://space.bilibili.com/70738350">九镹_xzadudu179</a></p>
+  <p>QQ: <a href="tencent://snsapp/?cmd=2&ver=1&uin=1795886524">1795886524</a><br></p>
   <hr>
   <h2>Other Stats</h2>
   
