@@ -25,10 +25,10 @@
 
 <!-- GitHub 状态 -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=xzadudu179&bg_color=0D111700&show_icons=true&icon_color=3BFFDC&border_radius=0&border_color=A9E7FF&text_color=E6EDF3&title_color=24ccff&include_all_commits=true&count_private=true&ring_color=3BFFDC&hide_border=true&theme=github-dark">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=xzadudu179&bg_color=0D111700&show_icons=true&icon_color=3BFFDC&border_radius=0&border_color=A9E7FF&text_color=E6EDF3&title_color=24ccff&include_all_commits=false&count_private=true&ring_color=3BFFDC&hide_border=true&theme=github-dark">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=xzadudu179&bg_color=0D111700&show_icons=true&icon_color=2AB5C2&border_radius=0&border_color=77abea&text_color=0D1016&title_color=375DDA&include_all_commits=true&count_private=true&ring_color=5585fe&hide_border=true&theme=github-light">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=xzadudu179&bg_color=0D111700&show_icons=true&icon_color=2AB5C2&border_radius=0&border_color=77abea&text_color=0D1016&title_color=375DDA&include_all_commits=false&count_private=true&ring_color=5585fe&hide_border=true&theme=github-light">
 </a>
 
 <!--
@@ -55,6 +55,7 @@
     <img width="450em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@xzadudu179&bg_color=0D111700&border_color=77abea&text_color=0D1016&title_color=375DDA&layout=default&hide_border=true&custom_title=Top%205%20Languages%20(Wakatime%20Last%207%20days)&langs_count=5&line_height=35&border_radius=0&hide=Objective-C,Other,ca65%20assembler,Ezhil,SWIG,Assembly,GDScript3,Bash,CSS,SSH%20Key,Image%20(png)&theme=github-light">
   </a>
   <br>
+
 
   
   <!--
@@ -109,12 +110,12 @@
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=xzadudu179&hide_border=true&bg_color=00000000&area=true&point=375dda&line=4088fb&color=375DDA&area_color=4088fb&height=300"/>
   </a>
-  <!-- 最常用语言 -->
+       <!-- 最常用语言 -->
 <!--   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzadudu179&bg_color=0D111700&show_icons=true&icon_color=3BFFDC&border_radius=0&layout=donut&hide_title=true&border_color=A9E7FF&text_color=E6EDF3&title_color=24ccff&hide_border=true&theme=github-dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzadudu179&bg_color=0D111700&show_icons=true&icon_color=3BFFDC&border_radius=0&layout=compact&hide_title=false&border_color=A9E7FF&text_color=E6EDF3&title_color=24ccff&hide_border=true&theme=github-dark&hide=lua"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzadudu179&bg_color=0D111700&show_icons=true&icon_color=2AB5C2&border_radius=0&layout=donut&hide_title=true&border_color=77abea&text_color=0D1016&title_color=375DDA&hide_border=true&theme=github-light"/>
+  <a height="200em" href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzadudu179&bg_color=0D111700&show_icons=true&icon_color=2AB5C2&border_radius=0&layout=compact&hide_title=false&border_color=77abea&text_color=0D1016&title_color=375DDA&hide_border=true&theme=github-light&hide=lua"/>
   </a> -->
   <!-- Waktime 热力图 -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
@@ -123,5 +124,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img src="https://wakatime.com/share/@xzadudu179/61e3d3bd-3b45-4f87-97aa-228869e1a125.svg"/>
   </a>
+ 
 </div>
 
