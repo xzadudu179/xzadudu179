@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hello, World</h2>
-  <!-- 文字 -->
+
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5be6ff&center=true&vCenter=true&random=true&width=600&separator=%3D&lines=fmt.Println(%22Hello%2C+World!%22)%3Dstd%3A%3Acout+%3C%3C+%22Hello%2C+World%22+%3C%3C+std%3A%3Aendl;%3Dprintf(%22Hello%2C+World%22);%3Dconsole.log(%22Hello%2C+World%22)%3Dprintln!(%22Hello%2C+World!%22);%3DConsole.WriteLine(%22Hello%2C+World%22);%3DSystem.out.println(%22Hello+World%22);%3Dprint('Hello%2C+World')%3Dprintln(%22Hello%2C+World!%22);" alt="Typing SVG" />
   </a>
