@@ -117,7 +117,7 @@
   <a height="200em" href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzadudu179&bg_color=0D111700&show_icons=true&icon_color=2AB5C2&border_radius=0&layout=compact&hide_title=false&border_color=77abea&text_color=0D1016&title_color=375DDA&hide_border=true&theme=github-light&hide=lua"/>
   </a> -->
-  <!-- Waktime 热力图 -->
+  <!-- Wakatime 热力图 -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img src="https://wakatime.com/share/@xzadudu179/0dc23568-e476-44a1-818d-1a53bf42a9a4.svg"/>
   </a>
