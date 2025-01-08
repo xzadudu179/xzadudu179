@@ -57,7 +57,7 @@
 
 <table rules="none">
 <tr>
-<td>
+<td valign="middle">
 
 <!-- BLOG-POST-LIST:START -->
 - [2024 年度总结~](https://xzadudu179.github.io/posts/17277/)
