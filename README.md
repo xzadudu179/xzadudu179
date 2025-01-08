@@ -103,6 +103,11 @@
   <hr>
 
 ## Blog posts
+
+<table rules="none">
+<tr>
+<td width="350px">
+
 <!-- BLOG-POST-LIST:START -->
 - [2024 年度总结~](https://xzadudu179.github.io/posts/17277/)
 - [我也有个人主页啦！](https://xzadudu179.github.io/posts/31834/)
@@ -111,6 +116,9 @@
 - [共享域名 179.life](https://xzadudu179.github.io/posts/16749/)
 <!-- BLOG-POST-LIST:END -->
 
+</td>
+</tr>
+</table>
   
   <h2>Other Stats</h2>
   
