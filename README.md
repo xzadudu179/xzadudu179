@@ -104,6 +104,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2024 年度总结~](https://xzadudu179.github.io/posts/17277/)
+- [我也有个人主页啦！](https://xzadudu179.github.io/posts/31834/)
+- [个人制作的 QQ 机器人 XME-Bot](https://xzadudu179.github.io/posts/29749/)
+- [从零开始：使用 Hexo 搭建个人博客](https://xzadudu179.github.io/posts/18015/)
+- [共享域名 179.life](https://xzadudu179.github.io/posts/16749/)
 <!-- BLOG-POST-LIST:END -->
 
   
