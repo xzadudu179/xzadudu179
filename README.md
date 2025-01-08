@@ -110,7 +110,12 @@
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=xzadudu179&hide_border=true&bg_color=00000000&area=true&point=375dda&line=4088fb&color=375DDA&area_color=4088fb&height=300"/>
   </a>
-       <!-- 最常用语言 -->
+
+  ## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<!-- 最常用语言 -->
 <!--   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzadudu179&bg_color=0D111700&show_icons=true&icon_color=3BFFDC&border_radius=0&layout=compact&hide_title=false&border_color=A9E7FF&text_color=E6EDF3&title_color=24ccff&hide_border=true&theme=github-dark&hide=lua"/>
   </a>
