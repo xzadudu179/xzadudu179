@@ -101,6 +101,12 @@
   <p>Email: <a href="mailto:terra179@163.com">Terra179@163.com</a><br></p>
   <p>QQ: <a href="tencent://snsapp/?cmd=2&ver=1&uin=1795886524">1795886524</a><br></p>
   <hr>
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+  
   <h2>Other Stats</h2>
   
   <!-- 代码活动图 -->
@@ -110,10 +116,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=xzadudu179&hide_border=true&bg_color=00000000&area=true&point=375dda&line=4088fb&color=375DDA&area_color=4088fb&height=300"/>
   </a>
-
-  ## Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <!-- 最常用语言 -->
 <!--   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
