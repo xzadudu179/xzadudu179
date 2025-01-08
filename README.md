@@ -22,8 +22,6 @@
 <br/>
 
 
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img width="450em" src="https://github-readme-stats.vercel.app/api?username=xzadudu179&bg_color=0D111700&show_icons=true&icon_color=3BFFDC&border_radius=0&border_color=A9E7FF&text_color=E6EDF3&title_color=24ccff&include_all_commits=false&count_private=true&ring_color=3BFFDC&hide_border=true&theme=github-dark">
 </a>
@@ -44,7 +42,6 @@
 </div>
 -->
 
-
 <!-- Wakatime 状态 -->
 <br/>
 <div align="center">
@@ -54,8 +51,25 @@
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img width="450em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@xzadudu179&bg_color=0D111700&border_color=77abea&text_color=0D1016&title_color=375DDA&layout=default&hide_border=true&custom_title=Top%205%20Languages%20(Wakatime%20Last%207%20days)&langs_count=5&line_height=35&border_radius=0&hide=Objective-C,Other,ca65%20assembler,Ezhil,SWIG,Assembly,GDScript3,Bash,CSS,SSH%20Key,Image%20(png)&theme=github-light">
   </a>
-  <br>
 
+
+## Blog posts
+
+<table rules="none">
+<tr>
+<td width="350px">
+
+<!-- BLOG-POST-LIST:START -->
+- [2024 年度总结~](https://xzadudu179.github.io/posts/17277/)
+- [我也有个人主页啦！](https://xzadudu179.github.io/posts/31834/)
+- [个人制作的 QQ 机器人 XME-Bot](https://xzadudu179.github.io/posts/29749/)
+- [从零开始：使用 Hexo 搭建个人博客](https://xzadudu179.github.io/posts/18015/)
+- [共享域名 179.life](https://xzadudu179.github.io/posts/16749/)
+<!-- BLOG-POST-LIST:END -->
+
+</td>
+</tr>
+</table>
 
   
   <!--
@@ -69,13 +83,15 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@xzadudu179&bg_color=0D111700&border_color=77abea&text_color=dedede&title_color=dedede&layout=compact&hide_border=true&hide_title=true" />  
 </a>
   --->
-  
+  <!---
   <h2>Todo</h2>
     <p>- 学习计算机相关的东西</p>
     <p>- 制作维护 qq 机器人</p>
     <p>- 维护 + 打算升级自己的个人网站</p>
-  <div>
-    <hr>
+  <div> 
+  --->
+    
+  <hr>
     <h2>Find me at: <br></h2>
     <a href="https://wakatime.com/@xzadudu179" target="_blank" >
       <img alt="Static Badge" height="20em" src="https://img.shields.io/badge/wakatime-6C41D4?style=flat-square&logo=wakatime&logoColor=fff">
@@ -101,24 +117,6 @@
   <p>Email: <a href="mailto:terra179@163.com">Terra179@163.com</a><br></p>
   <p>QQ: <a href="tencent://snsapp/?cmd=2&ver=1&uin=1795886524">1795886524</a><br></p>
   <hr>
-
-## Blog posts
-
-<table rules="none">
-<tr>
-<td width="350px">
-
-<!-- BLOG-POST-LIST:START -->
-- [2024 年度总结~](https://xzadudu179.github.io/posts/17277/)
-- [我也有个人主页啦！](https://xzadudu179.github.io/posts/31834/)
-- [个人制作的 QQ 机器人 XME-Bot](https://xzadudu179.github.io/posts/29749/)
-- [从零开始：使用 Hexo 搭建个人博客](https://xzadudu179.github.io/posts/18015/)
-- [共享域名 179.life](https://xzadudu179.github.io/posts/16749/)
-<!-- BLOG-POST-LIST:END -->
-
-</td>
-</tr>
-</table>
   
   <h2>Other Stats</h2>
   
