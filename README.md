@@ -42,7 +42,7 @@
 </div>
 -->
 
-<!-- Wakatime 状态 -->
+<!-- Wakatime 代码状态 -->
 <br/>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
