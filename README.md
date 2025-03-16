@@ -65,14 +65,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@xzadudu179&bg_color=0D111700&border_color=77abea&text_color=dedede&title_color=dedede&layout=compact&hide_border=true&hide_title=true" />  
 </a>
   --->
-  <!---
-  <h2>Todo</h2>
-    <p>- 学习计算机相关的东西</p>
-    <p>- 制作维护 qq 机器人</p>
-    <p>- 维护 + 打算升级自己的个人网站</p>
-  <div> 
-  --->
-    
   <h2>Find me at: <br></h2>
     <a href="https://wakatime.com/@xzadudu179" target="_blank" >
       <img alt="Static Badge" height="20em" src="https://img.shields.io/badge/wakatime-6C41D4?style=flat-square&logo=wakatime&logoColor=fff">
