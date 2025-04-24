@@ -51,11 +51,11 @@
 <td valign="middle">
 
 <!-- BLOG-POST-LIST:START -->
-- [随记：2025年 四月](https://xzadudu179.github.io/posts/57174/)
-- [日记：3月 樱花大道](https://xzadudu179.github.io/posts/8630/)
-- [独立博客自省问卷 15 题](https://xzadudu179.github.io/posts/3998/)
-- [2024 年度总结~](https://xzadudu179.github.io/posts/17277/)
-- [我也有个人主页啦！](https://xzadudu179.github.io/posts/31834/)
+- [随记：2025年 四月](https://blog.xzadudu179.top/posts/57174/)
+- [日记：3月 樱花大道](https://blog.xzadudu179.top/posts/8630/)
+- [独立博客自省问卷 15 题](https://blog.xzadudu179.top/posts/3998/)
+- [2024 年度总结~](https://blog.xzadudu179.top/posts/17277/)
+- [我也有个人主页啦！](https://blog.xzadudu179.top/posts/31834/)
 <!-- BLOG-POST-LIST:END -->
 
 </td>
