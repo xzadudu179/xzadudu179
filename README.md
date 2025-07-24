@@ -16,7 +16,7 @@
   <img alt="C-Sharp" height="25em" src="https://img.shields.io/badge/C--sharp-%234088FB?style=for-the-badge&logo=.NET&logoColor=fff"">
   <img alt="Python" height="25em"  src="https://img.shields.io/badge/Python-%233E4BD2?style=for-the-badge&logo=python&logoColor=fff">
   <img alt="Kotlin" height="25em"  src="https://img.shields.io/badge/Kotlin-5A3AFA?style=for-the-badge&logo=kotlin&logoColor=fff">
-  <img alt="Dart" height="25em" src="https://img.shields.io/badge/Dart-744BE1?style=for-the-badge&logo=dart&logoColor=%23FFF">
+  <img alt="HTML" height="25em" src="https://img.shields.io/badge/Html-744BE1?style=for-the-badge&logo=HTML5&logoColor=%23FFF">
 </div>
 
 
