@@ -97,7 +97,7 @@
   
   <h2>Other Stats</h2>
 
-  
+[![wakatime](https://wakatime.com/badge/user/33b54570-06cf-487b-a2ac-cb0ffe9baa34.svg)](https://wakatime.com/@33b54570-06cf-487b-a2ac-cb0ffe9baa34)
   <!-- 代码活动图 -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=xzadudu179&hide_border=true&bg_color=00000000&area=true&point=6effe4&line=19bbd3&color=24ccff&area_color=4088fb&height=300"/>
@@ -120,6 +120,8 @@
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img src="https://wakatime.com/share/@xzadudu179/61e3d3bd-3b45-4f87-97aa-228869e1a125.svg"/>
   </a>
+  
+
  
 </div>
 
