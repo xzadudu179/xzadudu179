@@ -51,11 +51,11 @@
 <td valign="middle">
 
 <!-- BLOG-POST-LIST:START -->
+- [新个人主页 &amp; 博客/个人网站的未来](https://blog.xzadudu179.top/posts/63157/)
 - [随记：2025年 四月](https://blog.xzadudu179.top/posts/57174/)
 - [日记：3月 樱花大道](https://blog.xzadudu179.top/posts/8630/)
 - [独立博客自省问卷 15 题](https://blog.xzadudu179.top/posts/3998/)
 - [2024 年度总结~](https://blog.xzadudu179.top/posts/17277/)
-- [我也有个人主页啦！](https://blog.xzadudu179.top/posts/31834/)
 <!-- BLOG-POST-LIST:END -->
 
 </td>
